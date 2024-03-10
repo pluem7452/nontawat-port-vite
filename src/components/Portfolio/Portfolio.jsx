@@ -19,7 +19,7 @@ function Portfolio() {
             <p>I was in 6th grade.</p>
         </div>
         <div className={styles.port_items}>
-            <img src="./src/img/12565627_475489209305880_8865719494274402891_n.JPG" alt="" />
+            <img src="/nontawat-port-vite/src/assets/12565627_475489209305880_8865719494274402891_n.JPG" alt="" />
             <p>A-Math competition</p>
         </div>
         <div className={styles.port_items}>
