@@ -14,7 +14,7 @@ function Testimonials() {
             nesciunt!
           </p>
           <img
-            src="./src/img/317617591_3243579789288909_7806397191761817869_n.jpg"
+            src="./src/img/317617591_3243579789288909_7806397191761817869_n.JPG"
             alt=""
           />
           <h4>Yean</h4>
@@ -28,7 +28,7 @@ function Testimonials() {
             nesciunt!
           </p>
           <img
-            src="./src/img/56990227_550742585416296_2216749796763369472_n.jpg"
+            src="./src/img/56990227_550742585416296_2216749796763369472_n.JPG"
             alt=""
           />
           <h4>Game</h4>
@@ -42,7 +42,7 @@ function Testimonials() {
             nesciunt!
           </p>
           <img
-            src="./src/img/131930204_105736114759704_5514231967663578488_n.jpg"
+            src="./src/img/131930204_105736114759704_5514231967663578488_n.JPG"
             alt=""
           />
           <h4>Hood</h4>
