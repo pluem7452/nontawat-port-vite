@@ -1,6 +1,6 @@
 import React from 'react'
 import styles from './Skills.module.css'
-import { FaSquareJs, FaReact, FaCss3 , FaGitAlt, FaNode} from 'react-icons/fa6'
+import { FaSquareJs, FaReact, FaCss3 , FaGitAlt, FaNode, FaPython, FaJava, FaGolang} from 'react-icons/fa6'
 
 function Skills() {
   return (
@@ -12,6 +12,9 @@ function Skills() {
             <li><FaCss3 /></li>
             <li><FaGitAlt/></li>
             <li><FaNode/></li>
+            <li><FaPython/></li>
+            <li><FaJava/></li>
+            <li><FaGolang/></li>
         </ul>
       
     </div>

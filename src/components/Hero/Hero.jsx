@@ -1,6 +1,6 @@
 import React from "react";
 import styles from "./Hero.module.css";
-import { FaGithub, FaLinkedinIn, FaFacebookF } from "react-icons/fa6";
+import { FaGithub, FaLinkedinIn, FaFacebookF, FaInstagram } from "react-icons/fa6";
 import { TypeAnimation } from "react-type-animation";
 import Tilt from "react-parallax-tilt"
 
@@ -10,8 +10,8 @@ function Hero() {
       <div className={styles.container}>
         <div className={styles.hero_content}>
           <div className={styles.hero_info}>
-            <p className={styles.text_1}>Greetings, tech enthusiast!</p>
-            <h3 className={styles.text_2}>Byte Slinger Dhamma</h3>
+            <p className={styles.text_1}>Greetings, My Name Is!</p>
+            <h3 className={styles.text_2}>Nontawat Sukpordee</h3>
             <p className={styles.text_3}>
               <span>I am a </span>
               <TypeAnimation
@@ -27,23 +27,27 @@ function Hero() {
               />
 </p>
             <p className={styles.text_4}>
-              who crafted this online experience. Take a peek under the hood and
-              see what makes it tick.
+            Currently studying at the University of Phayao. The goal is to be a web developer.
             </p>
             <ul className={styles.hero_social}>
               <li>
-                <a href="">
+                <a href="https://github.com/pluem7452"target="_blank">
                   <FaGithub />
                 </a>
               </li>
               <li>
-                <a href="">
+                <a href="https://www.linkedin.com/in/khanomwan-sukpordee-6324bb2b9/"target="_blank">
                   <FaLinkedinIn />
                 </a>
               </li>
               <li>
-                <a href="">
+                <a href="https://www.facebook.com/nhontawat.pleam"target="_blank">
                   <FaFacebookF />
+                </a>
+              </li>
+              <li>
+                <a href="https://www.instagram.com/pluem_eiei/"target="_blank">
+                  <FaInstagram />
                 </a>
               </li>
             </ul>
